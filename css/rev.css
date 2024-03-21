@@ -1,0 +1,33 @@
+
+.pop-up-text{
+  font-size: 24px!important;
+  text-align: center !important;
+}
+.ramka{
+  background-color: #BAF0FF;
+  padding: 10px;
+  border-radius: 10px;
+}
+.new_price_val{
+  color: red ;
+  font-weight: 700 !important;
+}
+.big {
+  font-size: 22px !important;
+  font-weight: 600 !important;
+  margin-top: 40px !important;
+}
+.comments__kma p {
+  margin-bottom: 15px;
+}
+comments__kma> b {
+  padding-left: 10px!important;
+}
+.ava-img {
+  width: 50px!important;
+  display: inline-block !important;
+  vertical-align: middle;
+  border-radius: 50%;
+  margin: 0 10px !important;
+}
+
